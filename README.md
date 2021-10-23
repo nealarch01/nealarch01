@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nealarch01&langs_count_private=4&theme=synthwave)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nealarch01&langs_count=4&theme=synthwave&layout=compact)]()
