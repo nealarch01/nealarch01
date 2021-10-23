@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 -->
 ### 👋 Hi there!
 
-<p align = "center"> ## ⭐️ Github Language Stats ⭐️
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nealarch01&langs_count=5&theme=vue&layout=compact)]() </p>
+## ⭐️ Github Language Stats ⭐️
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nealarch01&langs_count=5&theme=vue&layout=compact)]()
