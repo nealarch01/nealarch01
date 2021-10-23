@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **nealarch01/nealarch01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 👋 Hi there!
 
-
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nealarch01&langs_count=4&theme=synthwave&layout=compact)]()
+<p align = "center"> ## ⭐️ Github Language Stats ⭐️
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nealarch01&langs_count=5&theme=vue&layout=compact)]() </p>
