@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 👋 Hi there!
+## I'm Neal, an aspiring Software Developer!
+## - Junior at California State University San Marcos
+## - Currently learning web technologies
 
 ## ⭐️ Github Language Stats ⭐️
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nealarch01&langs_count=5&theme=vue&layout=compact)]()
