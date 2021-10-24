@@ -13,10 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 👋 Hi there, I'm Neal!
-- Aspiring Software Developer based in Southern California
+- 💻 Aspiring Software Developer based in Southern California
 - 👨‍🎓 Junior Computer Science Student
-- 💻 Passionate about computers and creating impactful software
-- 🏋️Avid lifter
+- 🏋️ Avid Lifter
 - 😄 Pronouns: He/Him/His
 - 🔭 Learning about Web Technologies
 
