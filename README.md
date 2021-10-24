@@ -12,14 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 👋 Hi there, I'm Neal!
+## 👋 Hi there, I'm Neal!
 - 💻 Aspiring Software Developer based in Southern California
 - 👨‍🎓 Junior Computer Science Student
 - 🏋️ Avid Lifter
 - 😄 Pronouns: He/Him/His
-- 🔭 Learning about Web Technologies
-
-### Contact Info
+- 🔭 Currently Learning Web Technologies
 
 
 ## ⭐️ Github Language Stats ⭐️
