@@ -12,10 +12,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 👋 Hi there!
-I'm Neal, an aspiring Software Developer!
-- Junior at California State University San Marcos
-- Currently learning web technologies
+### 👋 Hi there, I'm Neal!
+- Aspiring Software Developer based in Southern California
+- 👨‍🎓 Junior Computer Science Student
+- 💻 Passionate about computers and creating impactful software
+- 🏋️Avid lifter
+- 😄 Pronouns: He/Him/His
+- 🔭 Learning about Web Technologies
+
+### Contact Info
+
 
 ## ⭐️ Github Language Stats ⭐️
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nealarch01&langs_count=5&theme=vue&layout=compact)]()
