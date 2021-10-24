@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 -->
 ## 👋 Hi there, I'm Neal!
 - 💻 Aspiring Software Developer based in Southern California
-- 👨‍🎓 Junior Computer Science Student
+- 👨‍🎓 3rd Year Computer Science Student
 - 🏋️ Avid Lifter
 - 😄 Pronouns: He/Him/His
-- 🔭 Currently Learning Web Technologies
+- 🌱 Currently Learning Web Technologies
 
 
-## ⭐️ Github Language Stats ⭐️
+## ⭐️ My Language Stats ⭐️
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nealarch01&langs_count=5&theme=vue&layout=compact)]()
