@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 👨‍🎓 3rd Year Computer Science Student
 - 🏋️ Avid Lifter
 - 😄 Pronouns: He/Him/His
-- 🌱 Currently Learning Web Technologies
+- 🌱 Currently Learning Web Technologies and Mobile Development
 
 
 ## ⭐️ My Language Stats ⭐️
