@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 👋 Hi there, I'm Neal!
-- 💻 Aspiring Software Developer based in Southern California
+- 💻 Software Developer based in Southern California
 - 👨‍🎓 3rd Year Computer Science Student
 - 🏋️ Avid Lifter
 - 😄 Pronouns: He/Him/His
