@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 ## 👋 Hi there, I'm Neal!
 - 💻 Software Developer based in Southern California
 - 👨‍🎓 3rd Year Computer Science Student
-- 🏋️ Avid Lifter
 - 😄 Pronouns: He/Him/His
 - 🌱 Currently Learning Web Technologies and Mobile Development
 
 
 ## ⭐️ My Language Stats ⭐️
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nealarch01&langs_count=4&theme=blueberry&layout=compact)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nealarch01&langs_count=5&theme=apprentice&layout=compact)]()
