@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 👋 Hi there, I'm Neal!
-- 💻 Software Developer based in Southern California
-- 👨‍🎓 3rd Year Computer Science Student
-- 😄 Pronouns: He/Him/His
-- 🌱 Currently Learning Web Technologies and Mobile Development
+- 💻 Software developer based in Southern California
+- 👨‍🎓 Third year computer science student
+- 😄 Pronouns: he/him/his
+- 🌱 Currently learning web technologies and mobile development
 
 
 ## ⭐️ My Language Stats ⭐️
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nealarch01&langs_count=6&theme=react&layout=compact)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nealarch01&langs_count=6&theme=solarized-light&exclude_repo=DSA_CS311&hide=Starlark&layout=compact)]()
