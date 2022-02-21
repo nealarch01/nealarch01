@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 
 ## ⭐️ My Language Stats ⭐️
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nealarch01&langs_count=6&theme=monokai&exclude_repo=DSA_CS311&hide=Starlark&layout=compact)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nealarch01&langs_count=6&theme=chartreuse-dark&exclude_repo=DSA_CS311&hide=Starlark&layout=compact)]()
