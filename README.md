@@ -15,12 +15,12 @@ I'm a third year computer science student with a passion for creating web and mo
 <a href="https://open.spotify.com/user/grlsvuvenq05rshcm29s2ch1m">
     <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white">
 </a>
-<a href="https://discordapp.com/users/875510588036497438">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
+<a href="https://discord.com">
+    <img src="https://img.shields.io/badge/defnotneal%231111-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
 </a>
 </p>
 
-## Languages, frameworks, tools, and technologies
+## Languages, frameworks, tools, and technlogies
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
