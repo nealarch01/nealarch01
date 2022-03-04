@@ -37,5 +37,5 @@ I'm a third year computer science student with a passion for creating web and mo
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nealarch01&langs_count=8&theme=nord&exclude_repo=DSA_CS311&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nealarch01&langs_count=8&theme=nord&exclude_repo=DSA_CS311,CS421&layout=compact">
 </p>
