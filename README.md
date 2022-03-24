@@ -7,17 +7,21 @@ I'm a third year computer science student with a passion for creating web & mobi
 - 🌱 Currently learning web technologies and mobile development
 - 🔭 Working on Swift or React projects
 
-<h2 align="center">My socials</h2>
-<p align="center">
+<h2 align="left">Socials / Reach out to me</h2>
+<p align="left">
 <a href="https://www.instagram.com/neal.arc01/" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+    <img src="https://img.shields.io/badge/neal.arc01-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 <a href="https://open.spotify.com/user/grlsvuvenq05rshcm29s2ch1m">
     <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white">
 </a>
-<a href="https://discord.com">
+<a href="#">
     <img src="https://img.shields.io/badge/defnotneal%231111-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
 </a>
+<a href="#">
+    <img src="https://img.shields.io/badge/itsneal.a01@gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
 </p>
 
 ## Languages, frameworks, tools, and technologies
