@@ -7,7 +7,7 @@ I'm a third year computer science student with a passion for creating web & mobi
 - 🌱 Currently learning web technologies and mobile development
 - 🔭 Working on Swift or React projects
 
-<h2 align="left">Socials / Reach out to me</h2>
+<h2 align="left">Socials / reach out to me!</h2>
 <p align="left">
 <a href="https://www.instagram.com/neal.arc01/" target="blank">
     <img src="https://img.shields.io/badge/neal.arc01-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
@@ -38,7 +38,8 @@ I'm a third year computer science student with a passion for creating web & mobi
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nealarch01&langs_count=6&theme=aura&exclude_repo=DSA_CS311,CS421&hide=Objective-C,Java&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nealarch01&langs_count=6&theme=react&exclude_repo=DSA_CS311,CS421&hide=Objective-C,Java&layout=compact">
 </p>
