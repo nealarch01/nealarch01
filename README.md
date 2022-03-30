@@ -1,10 +1,11 @@
 <h1 align="center">👋 Hi there, I'm Neal!</h1>
-I'm a third year computer science student with a passion for creating web & mobile software. I enjoy learning new programming languages and frameworks in my spare time so I can work on a variety of exciting projects!
+I'm a third year computer science student with a passion for creating web & mobile software. I enjoy learning new technologies in my spare time so I can work on a variety of new and exciting projects!
 <h2>About me</h2>
 
-- 😄 Pronouns: he/him/his
 - 🌱 Currently learning web technologies and mobile development
-- 🔭 Working on Swift or Node projects
+- 😄 Pronouns: he/him
+- 🔭 Working on Swift or Node.js side projects
+- 📓 Taking theory of computation and web programming at university
 
 <h2 align="left">Socials / reach out to me!</h2>
 <p align="left">
