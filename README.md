@@ -2,10 +2,9 @@
 I'm a third year computer science student with a passion for creating web & mobile software. I enjoy learning new programming languages and frameworks in my spare time so I can work on a variety of exciting projects!
 <h2>About me</h2>
 
-- 💻 Software developer based in Southern California
 - 😄 Pronouns: he/him/his
 - 🌱 Currently learning web technologies and mobile development
-- 🔭 Working on Swift or React projects
+- 🔭 Working on Swift or Node projects
 
 <h2 align="left">Socials / reach out to me!</h2>
 <p align="left">
