@@ -7,14 +7,8 @@ I'm a third year computer science student with a passion for creating web & mobi
 - 🔭 Working on Swift or Node.js side projects
 - 📓 Taking theory of computation and web programming at university
 
-<h2 align="left">Socials / reach out to me!</h2>
+<h2 align="left">Reach out to me!</h2>
 <p align="left">
-<a href="https://www.instagram.com/neal.arc01/" target="blank">
-    <img src="https://img.shields.io/badge/neal.arc01-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
-<a href="https://open.spotify.com/user/grlsvuvenq05rshcm29s2ch1m">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white">
-</a>
 <a href="#">
     <img src="https://img.shields.io/badge/defnotneal%231111-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
 </a>
