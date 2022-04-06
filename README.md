@@ -19,7 +19,7 @@ I'm a third year computer science student with a passion for creating web & mobi
 </p>
 
 ## 🛠 Tools & Technologies
-![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=MACOS&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-zsh-informational?style=flat&logo=GNOME%20Terminal&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/IDE-XCode-informational?style=flat&logo=XCode&logoColor=white&color=2bbc8a)
