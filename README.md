@@ -37,5 +37,5 @@
 
 ## ⭐️ My Language Stats 
 <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nealarch01&langs_count=6&theme=react&exclude_repo=DSA_CS311,CS421&hide=Objective-C,Java&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nealarch01&langs_count=6&theme=react&exclude_repo=DataStructuresAlgorithms-CS311&hide=Objective-C,Java&layout=compact">
 </p>
