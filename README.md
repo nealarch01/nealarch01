@@ -1,10 +1,10 @@
 <h1 style="text-align:center"><img src="./wave.gif" alt="wave-gif" height=30 width=30> Hey there!</h1>
 
 ## About me
-- 🌱 Currently learning web technologies and mobile development
+- 🌱 Learning web technologies
 - 🔭 Working on Swift or Node.js side projects
 - 📓 Currently taking theory of computation and web programming at university
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he/him/his
 
 <h2 align="left">Reach out to me!</h2>
 <p align="left">
@@ -16,7 +16,7 @@
 </a>
 </p>
 
-## 🛠 Tools & Technologies 💻
+## 🛠 Tools && Technologies 💻
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat-square&logo=apple&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-zsh-informational?style=flat-square&logo=GNOME%20Terminal&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-informational?style=flat-square&logo=VisualStudioCode&logoColor=white&color=2bbc8a)
@@ -34,5 +34,5 @@
 
 
 ## ⭐️ My Language Stats 
-![LanguageStatsCard](https://github-readme-stats.vercel.app/api/top-langs/?username=nealarch01&langs_count=8&theme=react&exclude_repo=DataStructuresAlgorithms-CS311&hide=Objective-C,Java,Starlark&layout=compact)
+![LanguageStatsCard](https://github-readme-stats.vercel.app/api/top-langs/?username=nealarch01&langs_count=8&theme=react&exclude_repo=DataStructuresAlgorithms-CS311&hide=Objective-C,Java,Starlark,Assembly&layout=compact)
 
