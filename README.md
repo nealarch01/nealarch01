@@ -36,5 +36,5 @@
 
 
 ## ⭐️ My Language Stats 
-![LanguageStatsCard](https://github-readme-stats.vercel.app/api/top-langs/?username=nealarch01&langs_count=8&theme=react&exclude_repo=DataStructuresAlgorithms-CS311&hide=Objective-C,Java,Starlark,Assembly&layout=compact)
+![LanguageStatsCard](https://github-readme-stats.vercel.app/api/top-langs/?username=nealarch01&langs_count=8&theme=react&exclude_repo=DataStructuresAlgorithms-CS311,CS421,CS211&hide=Objective-C,Java,Starlark,Assembly&layout=compact)
 
